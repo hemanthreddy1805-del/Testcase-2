@@ -32,4 +32,5 @@ checker = ScoreChecker(30)
 print(checker.run())
 
 print("hemnth reddy")
-ptitn("am an data engineer and as well as ai and agentic ai engineer")
+print("am an data engineer and as well as ai and agentic ai engineer")
+print("i have 3 years of exprenice in data analystic engineer")
