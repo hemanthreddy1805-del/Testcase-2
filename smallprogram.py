@@ -30,3 +30,5 @@ class ScoreChecker(a):
 
 checker = ScoreChecker(30)
 print(checker.run())
+
+print("hemnth reddy")
